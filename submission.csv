@@ -1,50 +1,50 @@
 ID,UTTERANCES
-0,actor.gender movie.directed_by movie.starring.actor movie.starring.character
+0,movie.starring.actor
 1,movie.starring.actor
 2,movie.starring.actor
-3,movie.starring.actor movie.starring.character
-4,movie.starring.actor movie.starring.character
-5,actor.gender movie.starring.actor
+3,movie.starring.actor
+4,movie.starring.actor
+5,movie.starring.actor
 6,movie.starring.actor
 7,movie.starring.actor
 8,movie.starring.actor
 9,movie.starring.actor
-10,movie.starring.actor
-11,movie.starring.actor movie.starring.character
+10,
+11,movie.starring.actor
 12,movie.starring.actor
 13,movie.starring.actor
 14,movie.starring.actor
-15,movie.starring.actor movie.starring.character
-16,movie.starring.actor
-17,actor.gender movie.starring.actor
+15,movie.starring.actor
+16,
+17,movie.starring.actor
 18,movie.starring.actor
-19,movie.starring.actor
+19,
 20,movie.starring.actor
-21,actor.gender movie.starring.actor
+21,movie.starring.actor
 22,movie.starring.actor
 23,actor.gender movie.starring.actor
 24,movie.starring.actor
-25,movie.rating movie.starring.actor movie.starring.character
-26,movie.starring.actor
-27,actor.gender movie.starring.actor
-28,movie.directed_by movie.rating movie.starring.actor movie.starring.character
+25,
+26,
+27,movie.starring.actor
+28,movie.starring.actor
 29,movie.starring.actor
 30,movie.starring.actor
 31,movie.starring.actor
 32,movie.starring.actor
 33,movie.starring.actor
-34,actor.gender movie.directed_by movie.starring.actor
-35,movie.directed_by movie.estimated_budget
+34,movie.starring.actor
+35,movie.estimated_budget
 36,movie.estimated_budget
 37,movie.estimated_budget
-38,movie.directed_by movie.estimated_budget
+38,movie.estimated_budget
 39,movie.estimated_budget
 40,movie.estimated_budget
 41,movie.estimated_budget
 42,movie.estimated_budget
-43,movie.estimated_budget movie.gross_revenue
+43,movie.gross_revenue
 44,movie.estimated_budget
-45,movie.directed_by movie.estimated_budget
+45,
 46,movie.estimated_budget
 47,movie.estimated_budget
 48,movie.estimated_budget
@@ -56,72 +56,72 @@ ID,UTTERANCES
 54,movie.estimated_budget movie.gross_revenue
 55,movie.estimated_budget
 56,movie.starring.actor
-57,movie.directed_by
-58,movie.directed_by movie.initial_release_date movie.rating
-59,movie.country movie.directed_by movie.initial_release_date movie.starring.actor
+57,
+58,movie.rating
+59,movie.country
 60,movie.starring.actor
 61,movie.directed_by
 62,movie.directed_by
 63,
-64,movie.country movie.directed_by movie.starring.actor
+64,movie.country
 65,movie.country
 66,movie.country
 67,movie.country
 68,movie.country
 69,movie.country
-70,movie.country movie.starring.actor
-71,movie.country movie.starring.actor
+70,movie.country
+71,movie.country
 72,movie.initial_release_date
 73,movie.initial_release_date
 74,movie.initial_release_date
 75,movie.initial_release_date
 76,movie.initial_release_date
 77,movie.initial_release_date
-78,movie.initial_release_date movie.starring.actor
+78,movie.initial_release_date
 79,movie.initial_release_date
-80,movie.directed_by movie.initial_release_date
-81,movie.initial_release_date movie.starring.actor
+80,movie.initial_release_date
+81,movie.initial_release_date
 82,movie.initial_release_date
 83,movie.initial_release_date
 84,movie.initial_release_date
 85,movie.initial_release_date
-86,movie.initial_release_date
-87,movie.directed_by movie.initial_release_date
-88,movie.initial_release_date movie.starring.actor
-89,movie.initial_release_date movie.rating
+86,movie.gross_revenue movie.initial_release_date
+87,movie.initial_release_date
+88,movie.initial_release_date
+89,movie.initial_release_date
 90,movie.initial_release_date
 91,movie.initial_release_date
 92,movie.initial_release_date
 93,movie.initial_release_date
 94,movie.initial_release_date
 95,movie.initial_release_date
-96,movie.directed_by movie.initial_release_date
+96,movie.initial_release_date
 97,movie.initial_release_date
-98,movie.directed_by movie.initial_release_date
+98,movie.initial_release_date
 99,movie.initial_release_date
 100,movie.initial_release_date
 101,movie.initial_release_date
-102,movie.initial_release_date movie.starring.actor
+102,movie.initial_release_date
 103,movie.initial_release_date
 104,movie.initial_release_date
-105,movie.directed_by movie.initial_release_date
+105,movie.initial_release_date
 106,movie.initial_release_date
 107,movie.initial_release_date
-108,movie.initial_release_date movie.starring.actor
-109,movie.directed_by movie.initial_release_date
+108,
+109,movie.initial_release_date
 110,movie.initial_release_date
-111,movie.initial_release_date movie.starring.actor
+111,movie.initial_release_date
 112,movie.initial_release_date
 113,movie.directed_by
-114,movie.directed_by movie.rating
-115,movie.directed_by movie.rating
+114,movie.directed_by
+115,
 116,movie.directed_by
-117,movie.directed_by movie.starring.actor
-118,movie.directed_by movie.produced_by
+117,movie.directed_by
+118,movie.directed_by
 119,movie.directed_by
-120,movie.directed_by movie.language
-121,movie.directed_by movie.gross_revenue movie.production_companies
-122,movie.directed_by movie.genre movie.starring.actor
+120,movie.directed_by
+121,
+122,
 123,movie.directed_by
 124,movie.directed_by
 125,movie.directed_by
@@ -129,7 +129,7 @@ ID,UTTERANCES
 127,movie.directed_by
 128,movie.directed_by
 129,movie.directed_by
-130,movie.directed_by
+130,
 131,movie.directed_by
 132,movie.directed_by
 133,movie.directed_by
@@ -138,33 +138,33 @@ ID,UTTERANCES
 136,movie.directed_by
 137,movie.directed_by
 138,movie.directed_by
-139,movie.directed_by movie.starring.actor movie.starring.character
-140,movie.directed_by movie.rating movie.starring.actor
-141,movie.directed_by movie.rating
+139,movie.starring.actor
+140,movie.directed_by
+141,
 142,movie.directed_by
 143,movie.directed_by
 144,movie.directed_by
 145,movie.directed_by
-146,movie.directed_by movie.rating
-147,movie.directed_by movie.rating
+146,movie.directed_by
+147,movie.directed_by
 148,movie.directed_by
-149,movie.directed_by movie.rating
+149,movie.directed_by
 150,movie.directed_by
-151,movie.directed_by
+151,
 152,movie.directed_by
 153,movie.directed_by
 154,movie.directed_by
 155,movie.directed_by
-156,movie.directed_by movie.rating
-157,movie.directed_by movie.initial_release_date movie.language movie.produced_by movie.rating movie.starring.actor
+156,movie.directed_by
+157,movie.directed_by
 158,movie.genre
-159,movie.genre movie.rating
+159,movie.genre
 160,movie.genre
 161,movie.genre
-162,movie.genre movie.language movie.rating
+162,movie.genre
 163,movie.genre
 164,movie.genre
-165,movie.genre movie.language
+165,movie.genre
 166,movie.genre
 167,movie.genre
 168,movie.genre
@@ -174,115 +174,115 @@ ID,UTTERANCES
 172,movie.genre
 173,movie.genre
 174,movie.genre
-175,movie.directed_by movie.genre
+175,movie.genre
 176,movie.genre
 177,movie.language
 178,movie.language
 179,movie.language
-180,movie.directed_by movie.language
+180,movie.language
 181,movie.language
 182,movie.language
 183,movie.language
-184,movie.directed_by movie.language movie.rating
-185,movie.country movie.directed_by movie.genre movie.language movie.starring.actor
-186,movie.genre movie.language
+184,movie.language
+185,movie.country movie.language
+186,
 187,movie.country movie.language
-188,movie.directed_by movie.initial_release_date movie.produced_by movie.starring.actor
-189,movie.produced_by movie.production_companies movie.starring.actor
+188,movie.produced_by
+189,
 190,
 191,
-192,gr.amount movie.country movie.directed_by movie.estimated_budget movie.genre movie.gross_revenue movie.initial_release_date movie.language movie.locations movie.production_companies movie.rating movie.starring.actor movie.starring.character movie.subjects person.date_of_birth
+192,
 193,movie.rating
 194,movie.language
 195,movie.starring.actor
 196,movie.starring.actor
 197,movie.subjects
 198,movie.subjects
-199,movie.initial_release_date movie.starring.actor
+199,movie.starring.actor
 200,movie.starring.actor
-201,movie.directed_by movie.starring.actor
+201,movie.starring.actor
 202,movie.country movie.language
 203,movie.starring.actor
-204,actor.gender gr.amount movie.country movie.directed_by movie.estimated_budget movie.genre movie.gross_revenue movie.initial_release_date movie.language movie.locations movie.music movie.produced_by movie.production_companies movie.rating movie.starring.actor movie.starring.character movie.subjects person.date_of_birth
-205,movie.starring.actor
-206,movie.directed_by movie.starring.actor movie.starring.character
-207,movie.directed_by movie.initial_release_date movie.starring.actor
-208,movie.directed_by movie.gross_revenue movie.rating movie.starring.actor movie.starring.character
+204,
+205,
+206,movie.starring.actor
+207,movie.directed_by
+208,
 209,movie.language
 210,movie.initial_release_date
 211,
-212,movie.starring.actor
+212,
 213,
-214,movie.directed_by movie.starring.actor
-215,movie.directed_by movie.rating
+214,
+215,
 216,movie.directed_by
-217,movie.initial_release_date movie.rating movie.starring.actor movie.starring.character
+217,movie.starring.actor
 218,movie.starring.actor
 219,movie.directed_by
-220,movie.produced_by movie.starring.actor
+220,movie.produced_by
 221,movie.starring.actor
-222,movie.language movie.starring.actor
-223,movie.directed_by movie.starring.actor
+222,movie.starring.actor
+223,movie.starring.actor
 224,movie.directed_by
 225,movie.directed_by
 226,movie.initial_release_date
-227,movie.directed_by
+227,
 228,movie.directed_by
-229,movie.directed_by movie.language movie.rating movie.starring.actor
-230,movie.directed_by movie.genre movie.language movie.rating movie.starring.character
-231,movie.country movie.directed_by movie.language
-232,movie.country movie.rating
-233,movie.production_companies
+229,movie.rating
+230,
+231,movie.country movie.language
+232,movie.country
+233,movie.country
 234,movie.language
 235,movie.language
-236,movie.genre movie.language
-237,movie.genre movie.language
-238,movie.country movie.directed_by movie.genre movie.language
-239,movie.country movie.directed_by movie.genre movie.language
+236,movie.genre
+237,movie.genre
+238,movie.genre
+239,movie.genre
 240,movie.genre
-241,movie.genre movie.subjects
-242,movie.starring.actor
-243,movie.directed_by movie.starring.actor
-244,movie.directed_by movie.rating movie.starring.actor
+241,movie.genre
+242,
+243,movie.starring.actor
+244,
 245,movie.country
-246,movie.directed_by movie.rating
-247,movie.country movie.starring.actor
+246,movie.directed_by
+247,movie.country
 248,movie.country
-249,movie.country movie.genre movie.language
-250,movie.country movie.directed_by movie.genre movie.language movie.starring.actor
-251,movie.country movie.starring.actor
+249,movie.country movie.language
+250,movie.country
+251,movie.country
 252,movie.country
-253,movie.country movie.starring.actor
-254,movie.country movie.directed_by movie.language
-255,movie.country movie.genre movie.language
-256,movie.country movie.genre movie.language
-257,actor.gender movie.language movie.starring.actor movie.starring.character
-258,movie.genre movie.production_companies
+253,movie.country
+254,movie.language
+255,movie.country movie.language
+256,movie.country movie.language
+257,movie.starring.actor
+258,
 259,movie.genre
 260,movie.language
-261,actor.gender gr.amount movie.country movie.directed_by movie.estimated_budget movie.genre movie.gross_revenue movie.initial_release_date movie.language movie.locations movie.music movie.produced_by movie.production_companies movie.rating movie.starring.actor movie.starring.character movie.subjects person.date_of_birth
-262,movie.directed_by movie.language movie.rating
+261,movie.starring.actor
+262,
 263,movie.country
 264,movie.country movie.starring.actor
-265,actor.gender gr.amount movie.country movie.directed_by movie.estimated_budget movie.genre movie.gross_revenue movie.initial_release_date movie.language movie.locations movie.music movie.produced_by movie.production_companies movie.rating movie.starring.actor movie.starring.character movie.subjects person.date_of_birth
+265,
 266,movie.directed_by
-267,movie.country movie.language
-268,movie.country movie.directed_by movie.rating
+267,movie.language
+268,movie.country
 269,movie.genre
-270,movie.genre movie.rating
+270,movie.genre
 271,movie.language
-272,movie.starring.actor
+272,
 273,
 274,
-275,movie.directed_by movie.rating movie.starring.actor
-276,movie.directed_by movie.rating movie.starring.actor
-277,actor.gender movie.directed_by movie.initial_release_date movie.rating movie.starring.actor movie.starring.character
-278,movie.produced_by movie.starring.actor
-279,movie.country movie.directed_by movie.starring.actor
-280,movie.produced_by movie.starring.actor
-281,movie.starring.actor
-282,movie.starring.actor
-283,movie.rating
+275,
+276,movie.starring.actor
+277,movie.starring.actor
+278,movie.starring.actor
+279,movie.country
+280,movie.starring.actor
+281,
+282,
+283,
 284,
 285,movie.country
 286,movie.country
@@ -291,190 +291,190 @@ ID,UTTERANCES
 289,movie.country movie.language
 290,movie.country movie.language
 291,movie.country movie.language
-292,movie.directed_by movie.language
+292,movie.language
 293,movie.country movie.language
-294,movie.production_companies movie.rating
-295,movie.produced_by movie.production_companies
+294,movie.production_companies
+295,movie.production_companies
 296,movie.starring.actor
-297,movie.directed_by movie.starring.actor
+297,movie.starring.actor
 298,movie.subjects
-299,movie.directed_by movie.genre movie.language movie.rating movie.starring.character
-300,movie.directed_by movie.starring.actor movie.starring.character
-301,movie.directed_by movie.initial_release_date movie.production_companies movie.rating movie.starring.actor movie.starring.character
+299,
+300,movie.starring.actor
+301,
 302,movie.produced_by
 303,movie.production_companies
-304,movie.production_companies
-305,movie.initial_release_date
+304,
+305,
 306,movie.country
 307,movie.produced_by
 308,movie.genre
-309,movie.rating movie.starring.actor movie.starring.character
-310,movie.country movie.genre movie.language
-311,movie.country movie.genre movie.language
+309,
+310,movie.country movie.genre
+311,movie.country
 312,movie.country movie.genre
 313,movie.country movie.genre
 314,movie.country movie.language
-315,movie.country movie.directed_by movie.genre movie.language movie.locations movie.starring.actor
-316,movie.country movie.directed_by movie.genre movie.language movie.locations movie.starring.actor
-317,movie.directed_by movie.language movie.rating
+315,movie.country movie.language
+316,movie.country movie.language
+317,movie.rating
 318,movie.rating
 319,movie.rating
-320,movie.language movie.rating movie.starring.actor
-321,movie.directed_by movie.genre movie.language movie.rating movie.starring.character
-322,movie.directed_by movie.genre movie.language movie.rating movie.starring.character
+320,movie.rating
+321,
+322,
 323,movie.rating
 324,movie.rating
-325,movie.production_companies movie.rating
+325,movie.rating
 326,movie.rating
-327,movie.production_companies movie.rating
+327,movie.rating
 328,movie.rating
 329,movie.rating
 330,movie.rating
-331,movie.rating movie.starring.character
+331,movie.rating
 332,movie.directed_by movie.genre
-333,movie.initial_release_date movie.produced_by
+333,movie.produced_by
 334,movie.directed_by movie.initial_release_date
 335,movie.production_companies
-336,movie.country movie.directed_by movie.genre
-337,movie.country movie.starring.actor
-338,movie.country movie.directed_by movie.starring.actor
-339,movie.directed_by movie.initial_release_date
-340,movie.directed_by movie.produced_by
-341,movie.directed_by movie.starring.actor
+336,movie.country
+337,movie.country
+338,
+339,movie.directed_by
+340,movie.produced_by
+341,movie.directed_by
 342,movie.directed_by
-343,movie.directed_by movie.starring.actor
+343,movie.directed_by
 344,movie.directed_by
-345,movie.directed_by movie.starring.actor
+345,movie.directed_by
 346,movie.directed_by
-347,movie.directed_by movie.genre movie.language movie.starring.actor
-348,movie.starring.character
-349,movie.produced_by movie.production_companies
-350,movie.directed_by movie.genre movie.language
+347,
+348,
+349,movie.production_companies
+350,movie.genre
 351,movie.directed_by
 352,movie.directed_by
 353,movie.directed_by
-354,movie.directed_by movie.starring.actor
-355,movie.directed_by movie.rating
-356,movie.directed_by movie.genre movie.language movie.locations movie.produced_by movie.rating movie.starring.actor movie.starring.character
-357,movie.directed_by movie.rating movie.starring.actor
+354,movie.directed_by
+355,movie.directed_by
+356,
+357,movie.directed_by
 358,movie.directed_by
-359,movie.directed_by movie.genre movie.language movie.locations movie.produced_by movie.rating movie.starring.actor
-360,movie.country movie.directed_by
+359,movie.directed_by
+360,
 361,movie.directed_by
-362,actor.gender movie.directed_by movie.produced_by movie.starring.actor movie.starring.character
-363,movie.directed_by movie.starring.actor
+362,
+363,movie.starring.actor
 364,movie.starring.actor
-365,movie.directed_by movie.starring.actor
+365,movie.starring.actor
 366,movie.country
 367,movie.country
 368,movie.country
 369,movie.country movie.language
 370,movie.country movie.language
 371,movie.production_companies
-372,movie.directed_by movie.produced_by movie.production_companies
+372,movie.produced_by
 373,movie.production_companies
 374,movie.production_companies
-375,movie.initial_release_date movie.starring.actor
+375,movie.starring.actor
 376,movie.directed_by
-377,actor.gender movie.starring.actor movie.starring.character
+377,movie.starring.actor
 378,movie.starring.actor
-379,movie.directed_by movie.rating movie.starring.actor
+379,movie.starring.actor
 380,movie.directed_by
 381,movie.produced_by
-382,movie.initial_release_date movie.produced_by movie.starring.actor
-383,movie.directed_by movie.produced_by movie.production_companies
-384,movie.directed_by movie.produced_by movie.starring.actor
-385,movie.produced_by movie.starring.actor
-386,movie.directed_by movie.initial_release_date movie.produced_by movie.rating movie.starring.actor
+382,movie.produced_by
+383,movie.produced_by
+384,movie.starring.actor
+385,movie.starring.actor
+386,
 387,movie.directed_by
-388,movie.directed_by movie.starring.actor
-389,movie.directed_by movie.produced_by
-390,movie.directed_by movie.produced_by
-391,movie.initial_release_date movie.production_companies
+388,movie.directed_by
+389,movie.produced_by
+390,movie.produced_by
+391,movie.production_companies
 392,movie.production_companies
-393,movie.initial_release_date movie.produced_by movie.production_companies
-394,movie.directed_by movie.production_companies movie.rating movie.starring.actor
+393,movie.production_companies
+394,movie.directed_by
 395,
 396,
-397,movie.directed_by
+397,
 398,
 399,
 400,
 401,
 402,
-403,movie.starring.character
+403,
 404,movie.starring.actor
 405,movie.starring.actor
-406,actor.gender movie.starring.actor
+406,movie.starring.actor
 407,movie.production_companies
 408,movie.production_companies
-409,movie.initial_release_date movie.production_companies
-410,movie.directed_by
-411,movie.directed_by
+409,movie.production_companies
+410,
+411,
 412,movie.directed_by
-413,movie.country movie.directed_by movie.language movie.locations
-414,movie.directed_by movie.genre movie.language movie.starring.actor movie.starring.character
-415,movie.language movie.production_companies
+413,movie.country
+414,
+415,movie.production_companies
 416,movie.country movie.language
-417,movie.directed_by movie.starring.actor
+417,movie.starring.actor
 418,movie.starring.actor
 419,movie.starring.actor
-420,movie.country movie.genre movie.language
-421,actor.gender movie.directed_by movie.starring.actor
+420,movie.country movie.genre
+421,movie.starring.actor
 422,movie.directed_by
-423,movie.directed_by movie.rating
-424,movie.directed_by movie.starring.character
+423,movie.directed_by
+424,
 425,movie.directed_by
 426,movie.directed_by
-427,movie.country movie.language movie.produced_by movie.production_companies
+427,movie.production_companies
 428,movie.starring.actor
 429,movie.starring.actor
 430,movie.starring.actor
-431,movie.genre movie.language movie.rating movie.starring.actor movie.starring.character
-432,movie.directed_by movie.rating
+431,movie.rating
+432,movie.rating
 433,movie.rating
 434,movie.rating
 435,movie.rating
 436,movie.rating
-437,movie.rating movie.starring.actor
+437,movie.rating
 438,movie.rating
 439,movie.rating
-440,movie.rating movie.starring.character
-441,movie.rating
+440,movie.rating
+441,
 442,movie.country
-443,movie.directed_by movie.language movie.rating
-444,movie.country movie.genre movie.language movie.starring.actor
-445,movie.starring.actor movie.subjects
+443,
+444,movie.country
+445,movie.subjects
 446,movie.subjects
 447,movie.subjects
 448,movie.subjects
-449,movie.country movie.directed_by movie.genre movie.initial_release_date movie.music movie.produced_by movie.production_companies movie.starring.actor movie.starring.character
-450,movie.directed_by movie.rating movie.subjects
-451,movie.directed_by movie.genre movie.gross_revenue movie.language movie.rating movie.starring.actor movie.subjects
+449,
+450,
+451,
 452,movie.directed_by
-453,movie.country movie.directed_by movie.language movie.rating
+453,movie.country movie.language
 454,movie.country movie.language
 455,movie.genre
 456,movie.genre
-457,movie.directed_by movie.initial_release_date movie.rating movie.starring.actor movie.starring.character
-458,movie.directed_by movie.genre movie.initial_release_date movie.produced_by movie.starring.actor movie.starring.character movie.subjects
+457,movie.rating
+458,movie.produced_by
 459,movie.directed_by
-460,movie.initial_release_date movie.produced_by movie.production_companies
+460,movie.produced_by
 461,movie.produced_by
-462,movie.language movie.produced_by movie.subjects
+462,movie.produced_by
 463,movie.produced_by
 464,movie.produced_by
-465,movie.produced_by movie.subjects
-466,movie.directed_by movie.starring.actor
+465,movie.produced_by
+466,movie.starring.actor
 467,movie.directed_by
 468,movie.country
 469,
 470,
-471,movie.language
+471,
 472,
 473,
 474,
-475,movie.starring.actor
+475,
 476,
 477,
 478,
@@ -482,135 +482,135 @@ ID,UTTERANCES
 480,
 481,
 482,
-483,movie.language movie.starring.actor
-484,movie.language
+483,movie.language
+484,
 485,movie.starring.actor
-486,actor.gender gr.amount movie.country movie.directed_by movie.estimated_budget movie.genre movie.gross_revenue movie.initial_release_date movie.language movie.locations movie.music movie.produced_by movie.production_companies movie.rating movie.starring.actor movie.starring.character movie.subjects person.date_of_birth
-487,movie.directed_by movie.starring.actor
+486,movie.starring.actor
+487,movie.directed_by
 488,movie.produced_by
-489,movie.directed_by movie.subjects
-490,actor.gender movie.directed_by movie.language movie.rating movie.starring.actor movie.starring.character
-491,movie.directed_by movie.genre
-492,movie.directed_by movie.genre
-493,movie.production_companies
+489,movie.subjects
+490,movie.starring.actor
+491,movie.directed_by
+492,movie.directed_by
+493,
 494,movie.subjects
 495,movie.country
 496,
-497,movie.directed_by
+497,
 498,
 499,
-500,movie.language
-501,movie.directed_by movie.language
+500,
+501,movie.language
 502,movie.language
-503,movie.directed_by movie.language movie.produced_by movie.rating
+503,movie.directed_by
 504,movie.starring.actor
 505,movie.starring.actor
-506,movie.directed_by movie.initial_release_date movie.rating movie.starring.actor movie.starring.character
-507,movie.starring.actor movie.starring.character
-508,movie.directed_by movie.language movie.rating
+506,movie.starring.actor
+507,movie.starring.actor
+508,
 509,movie.genre
 510,movie.directed_by
 511,
 512,
 513,
 514,
-515,movie.directed_by movie.rating
+515,movie.rating
 516,movie.rating
-517,movie.rating movie.starring.actor
+517,movie.rating
 518,movie.rating
-519,movie.directed_by movie.rating
+519,movie.rating
 520,movie.rating
 521,movie.rating
-522,movie.directed_by movie.initial_release_date movie.rating movie.starring.actor
+522,movie.rating
 523,movie.directed_by
-524,movie.directed_by movie.starring.actor
-525,movie.country movie.directed_by movie.genre movie.language movie.music movie.rating movie.starring.actor
+524,movie.directed_by
+525,movie.rating
 526,movie.initial_release_date movie.starring.actor
-527,movie.initial_release_date movie.rating movie.starring.actor
-528,movie.directed_by movie.initial_release_date movie.rating
+527,movie.initial_release_date movie.rating
+528,movie.initial_release_date movie.rating
 529,movie.produced_by
 530,movie.initial_release_date movie.starring.actor
 531,movie.directed_by
-532,movie.directed_by movie.initial_release_date movie.rating
+532,movie.initial_release_date movie.rating
 533,movie.starring.actor
-534,movie.genre movie.initial_release_date movie.production_companies movie.starring.actor
+534,movie.initial_release_date
 535,
-536,movie.directed_by movie.rating
+536,
 537,
 538,movie.production_companies
 539,
-540,movie.directed_by movie.language movie.starring.character
-541,movie.directed_by
+540,
+541,
 542,
 543,
 544,
 545,
-546,movie.initial_release_date movie.starring.actor
+546,
 547,
 548,
 549,
-550,movie.starring.actor
+550,
 551,
 552,
 553,
-554,actor.gender movie.directed_by movie.genre movie.gross_revenue movie.language movie.locations movie.produced_by movie.rating movie.starring.actor movie.starring.character movie.subjects
-555,movie.directed_by
-556,movie.directed_by
-557,movie.directed_by
-558,movie.directed_by
+554,
+555,
+556,
+557,
+558,
 559,
-560,movie.directed_by
-561,movie.directed_by movie.produced_by
+560,
+561,movie.produced_by
 562,movie.produced_by
-563,movie.directed_by movie.produced_by
+563,movie.produced_by
 564,movie.production_companies
-565,movie.directed_by movie.gross_revenue movie.initial_release_date movie.language movie.production_companies
+565,
 566,movie.production_companies
-567,movie.produced_by movie.production_companies movie.starring.character
-568,movie.directed_by movie.produced_by
+567,movie.produced_by
+568,movie.produced_by
 569,movie.production_companies
 570,movie.produced_by
 571,movie.produced_by
 572,movie.produced_by
 573,movie.produced_by
 574,movie.produced_by
-575,movie.directed_by movie.produced_by
+575,
 576,movie.produced_by
 577,movie.produced_by
-578,movie.initial_release_date movie.produced_by
-579,movie.directed_by movie.genre movie.produced_by movie.rating movie.subjects
+578,movie.produced_by
+579,
 580,movie.produced_by
-581,movie.estimated_budget movie.produced_by
-582,movie.gross_revenue movie.produced_by
-583,movie.initial_release_date movie.produced_by
-584,movie.initial_release_date movie.produced_by movie.production_companies
+581,movie.estimated_budget
+582,movie.produced_by
+583,movie.produced_by
+584,movie.produced_by
 585,movie.produced_by
 586,movie.produced_by
-587,movie.directed_by movie.produced_by movie.rating movie.starring.character
+587,movie.rating
 588,movie.produced_by
-589,movie.produced_by movie.production_companies
-590,movie.production_companies movie.starring.actor
-591,movie.directed_by movie.produced_by
+589,
+590,movie.production_companies
+591,movie.produced_by
 592,movie.produced_by
 593,movie.production_companies
 594,movie.produced_by movie.production_companies
-595,movie.directed_by movie.language movie.produced_by movie.subjects
+595,movie.produced_by
 596,movie.produced_by
-597,movie.directed_by movie.produced_by movie.subjects
-598,movie.produced_by movie.subjects
+597,movie.produced_by
+598,movie.produced_by
 599,movie.produced_by
-600,movie.directed_by movie.production_companies movie.rating movie.starring.actor movie.starring.character
+600,movie.rating
 601,movie.gross_revenue
 602,movie.gross_revenue
 603,movie.gross_revenue
 604,movie.gross_revenue
 605,movie.gross_revenue
-606,movie.estimated_budget movie.genre movie.gross_revenue
+606,movie.gross_revenue
 607,movie.gross_revenue
 608,movie.gross_revenue
-609,movie.gross_revenue movie.language movie.production_companies movie.rating
+609,
 610,movie.gross_revenue
-611,
+611,movie.initial_release_date
 612,movie.starring.actor movie.starring.character
 613,movie.starring.actor movie.starring.character
 614,movie.starring.actor
@@ -618,114 +618,114 @@ ID,UTTERANCES
 616,movie.starring.actor
 617,movie.starring.actor
 618,movie.starring.actor movie.starring.character
-619,movie.directed_by movie.starring.actor
+619,movie.starring.actor
 620,movie.starring.actor movie.starring.character
 621,movie.starring.actor movie.starring.character
 622,movie.starring.actor
-623,movie.starring.actor
-624,movie.starring.actor movie.starring.character
-625,movie.directed_by movie.starring.actor movie.starring.character
-626,movie.starring.actor movie.starring.character
-627,movie.directed_by movie.starring.actor movie.starring.character
-628,movie.starring.actor movie.starring.character
+623,
+624,movie.starring.actor
+625,movie.starring.actor
+626,movie.starring.actor
+627,movie.starring.actor
+628,movie.starring.actor
 629,movie.starring.actor
-630,movie.directed_by movie.initial_release_date movie.produced_by movie.starring.actor
+630,
 631,movie.starring.actor
-632,movie.starring.actor movie.starring.character
-633,movie.starring.actor movie.starring.character
+632,movie.starring.actor
+633,movie.starring.actor
 634,movie.estimated_budget
 635,movie.estimated_budget
 636,movie.estimated_budget
 637,movie.estimated_budget
 638,movie.estimated_budget
 639,movie.estimated_budget
-640,movie.directed_by movie.estimated_budget movie.initial_release_date
+640,movie.estimated_budget movie.initial_release_date
 641,movie.estimated_budget
 642,movie.estimated_budget
-643,movie.estimated_budget movie.genre
-644,movie.directed_by movie.estimated_budget
+643,movie.estimated_budget
+644,movie.estimated_budget
 645,movie.estimated_budget
 646,movie.estimated_budget
 647,movie.estimated_budget
 648,movie.estimated_budget
 649,movie.estimated_budget
 650,movie.estimated_budget
-651,actor.gender gr.amount movie.country movie.directed_by movie.estimated_budget movie.genre movie.gross_revenue movie.initial_release_date movie.language movie.locations movie.music movie.produced_by movie.production_companies movie.rating movie.starring.actor movie.starring.character movie.subjects person.date_of_birth
+651,
 652,movie.country
 653,movie.country
 654,movie.country
-655,movie.country movie.starring.actor
+655,movie.country
 656,movie.country
 657,movie.country
 658,movie.country
 659,movie.initial_release_date
-660,movie.initial_release_date movie.starring.actor
+660,movie.initial_release_date
 661,movie.initial_release_date
 662,movie.initial_release_date
 663,movie.initial_release_date
 664,movie.initial_release_date
-665,movie.directed_by movie.initial_release_date movie.rating movie.starring.actor
+665,
 666,movie.initial_release_date
-667,movie.directed_by movie.initial_release_date
+667,movie.initial_release_date
 668,movie.initial_release_date
 669,movie.initial_release_date
 670,movie.initial_release_date
-671,movie.directed_by movie.initial_release_date movie.rating
+671,movie.initial_release_date
 672,movie.initial_release_date
 673,movie.directed_by
-674,movie.directed_by movie.language
-675,movie.directed_by movie.rating
+674,movie.directed_by
+675,movie.directed_by
 676,movie.directed_by
-677,movie.directed_by movie.language
+677,movie.directed_by
 678,movie.language
 679,movie.language
 680,movie.language
-681,movie.directed_by movie.language movie.starring.character
+681,
 682,movie.language
-683,movie.genre movie.language movie.rating
-684,movie.directed_by movie.genre
-685,movie.rating movie.starring.character
-686,movie.directed_by movie.initial_release_date movie.produced_by movie.production_companies movie.starring.actor
-687,movie.genre movie.language movie.starring.character
-688,movie.genre movie.language
-689,actor.gender gr.amount movie.country movie.directed_by movie.estimated_budget movie.genre movie.gross_revenue movie.initial_release_date movie.language movie.locations movie.music movie.produced_by movie.production_companies movie.rating movie.starring.actor movie.starring.character movie.subjects person.date_of_birth
-690,movie.directed_by movie.estimated_budget movie.genre movie.initial_release_date movie.production_companies movie.rating movie.starring.actor movie.starring.character
-691,movie.directed_by movie.estimated_budget movie.genre movie.initial_release_date movie.language movie.production_companies movie.rating movie.starring.actor movie.starring.character movie.subjects person.date_of_birth
-692,movie.directed_by movie.estimated_budget movie.genre movie.initial_release_date movie.production_companies movie.rating movie.starring.actor movie.starring.character
-693,movie.directed_by movie.starring.actor
-694,actor.gender movie.directed_by movie.starring.actor movie.subjects
+683,
+684,movie.genre
+685,movie.rating
+686,
+687,movie.genre
+688,movie.genre
+689,
+690,movie.genre
+691,
+692,movie.genre
+693,
+694,
 695,movie.initial_release_date movie.starring.actor
-696,movie.genre
-697,movie.directed_by movie.initial_release_date movie.rating movie.starring.actor movie.starring.character
+696,movie.country
+697,movie.starring.actor
 698,movie.country
 699,movie.language
-700,movie.country movie.genre movie.starring.actor
-701,movie.language movie.subjects
-702,movie.directed_by movie.produced_by
-703,movie.directed_by movie.starring.actor
-704,movie.directed_by movie.rating movie.starring.actor
+700,movie.country
+701,movie.subjects
+702,
+703,
+704,
 705,movie.directed_by movie.starring.actor
-706,movie.directed_by movie.starring.actor
+706,movie.directed_by
 707,movie.directed_by
-708,movie.directed_by movie.rating movie.starring.actor
-709,movie.directed_by movie.produced_by movie.starring.actor
+708,movie.directed_by
+709,movie.directed_by
 710,movie.directed_by
-711,movie.directed_by movie.produced_by movie.rating movie.starring.actor
-712,movie.directed_by movie.rating movie.starring.actor
-713,movie.directed_by movie.genre
-714,movie.genre movie.starring.actor
-715,movie.directed_by movie.initial_release_date movie.produced_by movie.starring.actor
-716,movie.genre movie.rating
-717,actor.gender gr.amount movie.country movie.directed_by movie.estimated_budget movie.genre movie.gross_revenue movie.initial_release_date movie.language movie.locations movie.music movie.produced_by movie.production_companies movie.rating movie.starring.actor movie.starring.character movie.subjects person.date_of_birth
-718,actor.gender movie.country movie.directed_by movie.genre movie.language movie.locations movie.produced_by movie.production_companies movie.rating movie.starring.actor movie.starring.character
-719,movie.initial_release_date movie.production_companies movie.starring.actor movie.starring.character
-720,movie.initial_release_date movie.starring.actor
-721,movie.directed_by movie.starring.actor
-722,movie.directed_by movie.production_companies movie.rating movie.starring.actor
-723,movie.directed_by movie.initial_release_date movie.starring.actor movie.starring.character movie.subjects
+711,movie.directed_by
+712,movie.directed_by
+713,movie.directed_by
+714,movie.starring.actor
+715,
+716,movie.rating
+717,movie.starring.actor
+718,
+719,movie.starring.actor
+720,movie.initial_release_date
+721,
+722,movie.production_companies
+723,movie.initial_release_date movie.subjects
 724,movie.language
 725,movie.language
-726,movie.rating movie.starring.actor
+726,
 727,movie.language
 728,movie.language
 729,movie.language
@@ -734,7 +734,7 @@ ID,UTTERANCES
 732,movie.language
 733,movie.language
 734,movie.language
-735,movie.country movie.starring.actor
+735,movie.country
 736,movie.language
 737,movie.language
 738,movie.language
@@ -742,66 +742,66 @@ ID,UTTERANCES
 740,movie.language
 741,movie.language
 742,movie.language
-743,movie.initial_release_date movie.produced_by movie.production_companies
-744,movie.directed_by movie.produced_by
-745,movie.initial_release_date movie.produced_by movie.production_companies
+743,movie.production_companies
+744,movie.produced_by
+745,movie.produced_by
 746,movie.production_companies
-747,movie.language movie.production_companies
-748,movie.genre
-749,movie.directed_by movie.initial_release_date movie.produced_by movie.production_companies movie.rating movie.starring.actor movie.starring.character
+747,movie.production_companies
+748,
+749,movie.initial_release_date
 750,movie.rating
-751,movie.rating movie.starring.actor
-752,movie.directed_by movie.rating movie.starring.actor movie.subjects
+751,movie.rating
+752,
 753,movie.genre movie.rating
-754,movie.genre movie.rating
-755,movie.directed_by movie.rating
-756,movie.production_companies movie.rating
-757,movie.genre movie.rating movie.starring.actor
-758,movie.country movie.directed_by movie.starring.actor
+754,
+755,movie.rating
+756,movie.rating
+757,movie.rating
+758,movie.country
 759,movie.starring.actor
 760,movie.starring.actor
 761,movie.starring.actor
 762,movie.starring.actor
-763,movie.directed_by movie.starring.actor movie.subjects
+763,movie.starring.actor
 764,movie.starring.actor
-765,movie.rating movie.starring.actor
+765,movie.starring.actor
 766,movie.starring.actor
 767,movie.starring.actor
-768,movie.directed_by movie.rating movie.starring.actor
+768,movie.directed_by movie.starring.actor
 769,movie.starring.actor
 770,movie.subjects
-771,movie.directed_by movie.subjects
+771,movie.subjects
 772,movie.subjects
-773,movie.rating movie.subjects
+773,movie.subjects
 774,movie.subjects
-775,movie.directed_by movie.starring.actor
+775,
 776,movie.subjects
 777,movie.subjects
 778,movie.subjects
-779,movie.directed_by
+779,movie.subjects
 780,movie.subjects
-781,movie.directed_by movie.starring.actor movie.subjects
+781,
 782,movie.country movie.language
-783,movie.rating
+783,
 784,movie.subjects
-785,movie.country movie.directed_by movie.genre movie.language movie.rating movie.starring.actor
-786,movie.directed_by movie.rating movie.subjects
+785,movie.language
+786,movie.subjects
 787,movie.subjects
-788,actor.gender movie.starring.actor
+788,movie.starring.actor
 789,movie.starring.actor movie.subjects
-790,movie.starring.actor movie.subjects
-791,movie.directed_by movie.subjects
+790,movie.starring.actor
+791,movie.subjects
 792,movie.subjects
 793,movie.subjects
 794,movie.subjects
-795,movie.genre movie.rating movie.starring.actor
+795,
 796,movie.subjects
-797,movie.genre movie.language
-798,movie.rating movie.starring.actor movie.starring.character
-799,movie.directed_by movie.language
+797,movie.language
+798,movie.rating
+799,
 800,movie.language
-801,movie.country movie.genre movie.language
-802,movie.directed_by movie.initial_release_date movie.rating movie.starring.actor
+801,movie.country movie.language
+802,movie.directed_by
 803,
 804,
 805,
@@ -809,142 +809,142 @@ ID,UTTERANCES
 807,
 808,
 809,
-810,movie.initial_release_date movie.starring.actor
+810,movie.initial_release_date
 811,movie.language
 812,movie.starring.actor
 813,
 814,movie.produced_by
-815,movie.genre movie.initial_release_date
+815,
 816,
 817,movie.country movie.language
 818,movie.country movie.language
-819,movie.country movie.directed_by movie.language
+819,movie.country movie.language
 820,movie.production_companies
-821,movie.language movie.production_companies
+821,
 822,
-823,movie.directed_by
-824,movie.starring.actor movie.starring.character
+823,
+824,movie.starring.actor
 825,
 826,movie.produced_by
 827,movie.production_companies
 828,movie.produced_by
-829,movie.directed_by movie.produced_by
+829,
 830,movie.produced_by
-831,movie.country movie.initial_release_date movie.produced_by movie.production_companies
-832,movie.estimated_budget movie.gross_revenue
-833,movie.estimated_budget movie.genre
-834,movie.directed_by movie.genre movie.language
-835,movie.starring.actor
+831,movie.produced_by
+832,movie.gross_revenue
+833,movie.estimated_budget
+834,
+835,
 836,movie.gross_revenue
-837,movie.gross_revenue
+837,
 838,movie.gross_revenue
 839,movie.gross_revenue
 840,movie.gross_revenue
-841,movie.directed_by movie.gross_revenue
-842,movie.directed_by movie.estimated_budget movie.gross_revenue
-843,movie.directed_by movie.estimated_budget movie.gross_revenue
-844,movie.directed_by
+841,movie.gross_revenue
+842,movie.gross_revenue
+843,movie.gross_revenue
+844,
 845,movie.gross_revenue
 846,movie.gross_revenue
-847,movie.starring.actor
+847,
 848,movie.gross_revenue
 849,movie.gross_revenue
-850,movie.estimated_budget movie.genre
+850,movie.estimated_budget
 851,movie.gross_revenue
-852,gr.amount movie.gross_revenue
+852,movie.gross_revenue
 853,movie.gross_revenue
-854,movie.estimated_budget movie.genre
-855,movie.estimated_budget movie.gross_revenue
-856,movie.gross_revenue movie.starring.actor
+854,movie.gross_revenue
+855,movie.gross_revenue
+856,movie.gross_revenue
 857,
-858,movie.directed_by movie.rating movie.starring.actor
+858,
 859,actor.gender movie.starring.actor
-860,actor.gender movie.starring.actor movie.starring.character
+860,actor.gender movie.starring.actor
 861,actor.gender movie.starring.actor
-862,movie.starring.actor movie.starring.character
+862,movie.starring.actor
 863,movie.starring.actor
-864,movie.directed_by movie.language movie.rating person.date_of_birth
-865,movie.initial_release_date person.date_of_birth
-866,movie.country movie.directed_by
-867,movie.country movie.directed_by movie.starring.actor
+864,person.date_of_birth
+865,movie.initial_release_date
+866,movie.country
+867,movie.country
 868,movie.initial_release_date
-869,movie.country movie.genre movie.initial_release_date movie.rating movie.starring.actor movie.starring.character
-870,movie.directed_by movie.language
+869,movie.rating
+870,
 871,movie.directed_by
-872,movie.directed_by movie.rating
-873,movie.directed_by movie.language movie.rating
-874,movie.directed_by
-875,movie.directed_by movie.produced_by movie.starring.actor
-876,movie.directed_by movie.starring.actor
+872,
+873,
+874,
+875,movie.produced_by
+876,
 877,movie.produced_by
 878,movie.directed_by
 879,movie.directed_by
-880,movie.directed_by
-881,movie.directed_by movie.initial_release_date movie.language movie.rating movie.starring.actor movie.starring.character
-882,movie.rating movie.starring.actor movie.starring.character
-883,movie.directed_by movie.initial_release_date movie.produced_by movie.starring.actor
+880,
+881,movie.rating
+882,
+883,
 884,movie.starring.actor
-885,movie.language movie.starring.actor
+885,movie.language
 886,
-887,movie.directed_by movie.starring.actor
-888,movie.directed_by movie.starring.actor
-889,movie.directed_by
-890,movie.directed_by movie.rating movie.starring.actor
+887,
+888,movie.directed_by
+889,
+890,
 891,movie.directed_by
 892,movie.directed_by
-893,movie.genre movie.language movie.rating movie.starring.actor
-894,movie.directed_by movie.rating
-895,movie.directed_by movie.gross_revenue movie.rating
+893,
+894,
+895,
 896,movie.country
-897,movie.initial_release_date movie.production_companies
-898,movie.initial_release_date movie.produced_by
-899,movie.directed_by movie.initial_release_date movie.rating movie.starring.character
-900,movie.country movie.starring.actor
-901,movie.country movie.directed_by
+897,movie.production_companies
+898,
+899,
+900,movie.country
+901,movie.country
 902,movie.production_companies
 903,movie.initial_release_date movie.production_companies
-904,movie.directed_by movie.genre
-905,movie.country movie.initial_release_date movie.starring.actor
-906,movie.country movie.initial_release_date movie.locations movie.starring.actor
-907,movie.country movie.directed_by movie.initial_release_date movie.produced_by movie.starring.actor movie.starring.character
-908,movie.starring.actor
-909,movie.directed_by movie.initial_release_date movie.rating movie.starring.actor
-910,movie.initial_release_date movie.production_companies movie.starring.actor
-911,movie.starring.actor
-912,movie.country movie.initial_release_date
-913,movie.country movie.starring.actor
-914,movie.genre movie.rating
-915,movie.directed_by movie.rating movie.starring.actor movie.subjects
-916,movie.directed_by movie.rating movie.starring.actor
+904,
+905,movie.country
+906,movie.country
+907,
+908,
+909,
+910,movie.starring.actor
+911,
+912,movie.country
+913,movie.country
+914,movie.rating
+915,movie.directed_by movie.rating
+916,
 917,movie.language
-918,movie.directed_by
+918,
 919,movie.genre
 920,movie.language
 921,movie.language
-922,movie.language movie.starring.actor
-923,movie.country movie.starring.actor
-924,movie.directed_by movie.initial_release_date movie.starring.actor
-925,movie.directed_by movie.rating movie.starring.actor
-926,movie.directed_by movie.subjects
+922,movie.language
+923,movie.country
+924,
+925,
+926,movie.subjects
 927,movie.initial_release_date
 928,movie.country movie.language
-929,movie.starring.actor
-930,movie.production_companies movie.rating
-931,movie.directed_by movie.estimated_budget movie.genre movie.rating movie.starring.actor
-932,movie.directed_by movie.language movie.locations movie.produced_by movie.rating movie.starring.actor
+929,
+930,
+931,movie.genre
+932,
 933,movie.starring.actor
 934,movie.directed_by
-935,movie.genre movie.initial_release_date movie.produced_by movie.starring.actor
-936,movie.produced_by movie.subjects
-937,movie.rating movie.starring.actor
-938,movie.rating movie.starring.actor
-939,movie.rating
+935,
+936,movie.produced_by
+937,movie.rating
+938,movie.rating
+939,
 940,movie.rating
-941,movie.language movie.rating
-942,movie.genre movie.rating
+941,movie.rating
+942,movie.rating
 943,movie.rating
 944,movie.rating
-945,movie.directed_by movie.rating movie.starring.actor
+945,movie.rating
 946,movie.rating
 947,movie.rating
 948,movie.rating
@@ -953,30 +953,30 @@ ID,UTTERANCES
 951,movie.rating
 952,movie.rating
 953,movie.rating
-954,movie.estimated_budget movie.gross_revenue
-955,movie.estimated_budget
-956,movie.gross_revenue movie.starring.actor
-957,gr.amount movie.gross_revenue movie.starring.actor
-958,movie.genre
-959,movie.starring.actor movie.starring.character
-960,movie.starring.actor movie.starring.character
+954,movie.gross_revenue
+955,
+956,movie.gross_revenue
+957,movie.gross_revenue
+958,
+959,
+960,
 961,
-962,movie.starring.actor
+962,
 963,
 964,
 965,
-966,movie.directed_by movie.genre movie.language movie.production_companies movie.starring.actor movie.starring.character
+966,
 967,
 968,
 969,
-970,movie.directed_by
+970,
 971,
-972,movie.directed_by movie.starring.actor
+972,
 973,
 974,
 975,
 976,movie.starring.actor movie.starring.character
-977,actor.gender movie.directed_by movie.starring.actor
-978,movie.directed_by movie.starring.actor movie.starring.character
+977,movie.starring.actor
+978,
 979,movie.directed_by movie.initial_release_date
 980,movie.country
